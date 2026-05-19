@@ -37,3 +37,6 @@ The pipeline starts with raw eye-tracking logs collected from the Microsoft Holo
    4. `InterventionExample.ipynb`
 6. If you want the classifier in `AnSVMClassifierForHL2GazeFeatures.ipynb` to call the intervention service, first run the service cell in `InterventionExample.ipynb`. It starts a local endpoint at `http://127.0.0.1:5020/intervention`. Then run the classifier cell that calls that endpoint.
 
+*This tutorial contains supplementary material (e.g., the eye movement recordings in the Data folder) of the follwing publication:*
+Kenan Bektaş, Jannis Strecker, Simon Mayer, and Kimberly Garcia. 2024. Gaze-enabled activity recognition for augmented reality feedback. Computers & Graphics (March 2024), 103909. https://doi.org/10.1016/j.cag.2024.103909
+
