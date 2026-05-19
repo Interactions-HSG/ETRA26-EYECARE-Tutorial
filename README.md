@@ -1,6 +1,10 @@
 # ETRA26-EYECARE-Tutorial
 
-This repository contains the notebooks for the ETRA 2026 tutorial **EYE-CARE: Eye Tracking for Context-Adaptive Systems Based on Activity and Cognitive Load Prediction**. The notebooks show a compact pipeline from raw HoloLens 2 gaze data to gaze features, activity prediction, and task-adaptive AI support.
+This repository contains the notebooks for the ETRA 2026 tutorial 
+**EYE-CARE: Eye Tracking for Context-Adaptive Systems Based on Activity and Cognitive Load Prediction**. 
+Date: June 1st, 13:30 - 17:00 (Marrakech, Morocco local time)
+
+The notebooks show a compact pipeline from raw HoloLens 2 gaze data to gaze features, activity prediction, and task-adaptive AI support.
 
 ![Pipeline overview](Docs/pipeline_overview.png)
 
