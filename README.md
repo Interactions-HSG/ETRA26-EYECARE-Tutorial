@@ -43,7 +43,8 @@ The pipeline starts with raw eye-tracking logs collected from the Microsoft Holo
 
 ## 📚 Reference
 
-*This tutorial contains supplementary material (e.g., the eye movement recordings in the Data folder) of the follwing publication. If you use/modify this material please add a reference to our publication:*
+*This tutorial contains supplementary material (e.g., the eye movement recordings in the Data folder) of the follwing publication. If you use/modify this material please add a reference to:*
+
 Kenan Bektaş, Jannis Strecker, Simon Mayer, and Kimberly Garcia. 2024. Gaze-enabled activity recognition for augmented reality feedback. Computers & Graphics (March 2024), 103909. https://doi.org/10.1016/j.cag.2024.103909
 
 ```bibtex
